@@ -1,7 +1,7 @@
 # Local AI Registry: for business
 
-One-page preview of the business landing page.
+Mobile-first landing page for business owners. Every button goes to https://localairegistry.com.
 
 **View it:** https://seo-platform-x.github.io/local-ai-registry-business/
 
-The full prototype lives at https://github.com/SEO-Platform-X/local-ai-registry-prototype
+One self-contained file: `index.html`.
